@@ -1,1 +1,1 @@
-# fin
+# This is just an initial page for starting with git 
